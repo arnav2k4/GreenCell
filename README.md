@@ -22,9 +22,17 @@ and timestamp data.
 - Matplotlib
 - SciPy
 
+## Files
+
+- `new.py` - Main Python analysis code
+- `Sample_Data.csv` - Input dataset
+- `output/` - Generated charts and analysis tables
+
 ## How to Run
 
 Install the required libraries:
 
 ```bash
 pip install pandas matplotlib scipy
+
+python new.py
